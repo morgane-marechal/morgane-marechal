@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Morgane Maréchal</h1>
 <h3 align="center">I'm learning to coding in the school La Plateforme_ in Marseille (FRANCE).</h3>
 
-- I complete my learning with courses on codecademy [@MorganeMarchal](@MorganeMarchal)
 
-- 🌱 I’m currently learning **PHP, javascript, React**
+- 🌱 I’m currently learning **PHP, javascript, VueJS**
 
 - I completed some codecademy courses [https://www.codecademy.com/profiles/MorganeMarchal](https://www.codecademy.com/profiles/MorganeMarchal)
 
