@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨Hi, I'm Morgane Maréchal✨</h1>
+<h1 align="center">Hi, I'm Morgane Maréchal ✨</h1>
 <h3 align="center">I'm learning to coding in the school La Plateforme_ in Marseille (FRANCE).</h3>
 
 
