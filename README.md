@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **PHP, javascript, VueJS**
 
-- I completed some codecademy courses [https://www.codecademy.com/profiles/MorganeMarchal](https://www.codecademy.com/profiles/MorganeMarchal)
-
 - 👨‍💻 All of my projects are available at [https://morgane-marechal.students-laplateforme.io/index.html](https://morgane-marechal.students-laplateforme.io/index.html)
+
+- I completed some codecademy courses [https://www.codecademy.com/profiles/MorganeMarchal](https://www.codecademy.com/profiles/MorganeMarchal)
 
 - 📫 How to reach me **morgane.marechal@laplateforme.io**
 
