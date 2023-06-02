@@ -4,7 +4,7 @@
 <h3 align="center">I'm learning to coding in the school La Plateforme_ in Marseille (FRANCE).</h3>
 
 
-- 🌱 I’m currently learning **PHP, javascript, VueJS**
+- 🌱 I’m currently learning **PHP, javascript, ReactJS**
 
 - 👨‍💻 All of my projects are available at [morgane-marechal.students-laplateforme.io/index.html](https://morgane-marechal.students-laplateforme.io/index.html)
 
