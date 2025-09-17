@@ -10,7 +10,7 @@
 
 - I completed some codecademy courses [www.codecademy.com/profiles/MorganeMarchal](https://www.codecademy.com/profiles/MorganeMarchal)
 
-- 📫 How to reach me **morgane.marechal@laplateforme.io**
+- 📫 How to reach me **morgane.marechal12@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
