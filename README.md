@@ -4,7 +4,7 @@
 <h3 align="center">I'm learning to coding in the school La Plateforme_ in Marseille (FRANCE).</h3>
 
 
-- 🌱 I’m currently learning **PHP, Symfony, Javascript, Typescript, AdonisJS, Cordova, ReactJS, ReactNativeJS, NextJS, Redis, Docker**
+- 🌱 I’m currently learning **PHP, Symfony, Javascript, Typescript, AdonisJS, ReactJS, ReactNativeJS, NextJS, Redis, Docker, IoT **
 
 - 👨‍💻 All of my projects are available at [morgane-marechal.students-laplateforme.io/index.html](https://morgane-marechal.students-laplateforme.io/index.html)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,ts,adonis,php,symfony,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,ts,adonis,php,symfony,postgres,docker,arduino)](https://skillicons.dev)
 
 
      
