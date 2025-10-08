@@ -10,6 +10,9 @@
 
 - I completed some codecademy courses [www.codecademy.com/profiles/MorganeMarchal](https://www.codecademy.com/profiles/MorganeMarchal)
 
+- Currently working on an IoT project to learn some basics and create a mobile application.
+Some of the tools and technologies used (C++, Arduino IDE, Firebase,..)
+
 - 📫 How to reach me **morgane.marechal12@gmail.com**
 
 
